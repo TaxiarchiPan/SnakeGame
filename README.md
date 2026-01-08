@@ -13,8 +13,10 @@ A classic, retro-style Snake game built using Python and the pygame library. It�
 ## 🛠️ Installation
 Clone the repo:
 
-'git clone https://github.com/TaxiarchiPan/SnakeGame.git' 
-'cd SnakeGame'
+```bash
+git clone https://github.com/TaxiarchiPan/SnakeGame.git 
+cd SnakeGame
+```
 
 ## 🎮 How to Play
 * **Up/Down/Left/Right:** Navigate your snake.
